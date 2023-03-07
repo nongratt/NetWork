@@ -18,3 +18,4 @@
 https://rfc.com.ru/rfc1122.htm
 https://rfc.com.ru/rfc1123.htm
 
+![12](https://github.com/nongratt/NetWork/blob/main/images/B87412C8-7267-428F-A43D-825EA59CA0ED.png)
